@@ -10,4 +10,6 @@ It used yarn.
 
 Start with:
     yarn install
+Then:
+    yarn start
 
