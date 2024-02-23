@@ -6,3 +6,5 @@
 
 This is a Vue.js starter project.
 
+It used yarn.
+
