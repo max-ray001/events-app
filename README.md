@@ -8,3 +8,6 @@ This is a Vue.js starter project.
 
 It used yarn.
 
+Start with:
+    yarn install
+
