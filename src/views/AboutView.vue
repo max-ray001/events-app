@@ -17,8 +17,8 @@
       <p class="org-description is-size-4">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius quia
         aperiam eligendi dolorum reprehenderit ea amet, aliquid dolorem beatae,
-        iste aliquam ullam. Sequi ab eligendi consectetur neque laudantium,
-        libero asperiores.
+        iste aliquam ullam.
+        <!-- removed -->
       </p>
     </div>
   </div>
