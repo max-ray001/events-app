@@ -18,6 +18,7 @@
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius quia
         aperiam eligendi dolorum reprehenderit ea amet, aliquid dolorem beatae,
         iste aliquam ullam.
+        <!-- removed -->
       </p>
     </div>
   </div>
